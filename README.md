@@ -1,2 +1,7 @@
 # gestao_estoque
-estoque
+
+## Descrição do Projeto
+
+## Objetivo da Solução
+
+## Integrantes da Equipe
